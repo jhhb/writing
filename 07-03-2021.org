@@ -1,0 +1,114 @@
+* Self-teaching Attic Greek                                           :greek:
+** Background
+I've been working on teaching myself Attic Greek for about three weeks
+now.
+
+My previous experience with Attic Greek came from a semester of it in
+college (Spring of 2014).
+
+I made one half-hearted attempt back in 2017 to self-study it, and am
+trying again now.
+
+This post will cover some of my motivations in learning and writing
+about my learning, and also my current progress.
+
+I write this because I imagine that anyone who is interested in
+self-teaching Attic Greek using textbooks and primary sources will
+have a rough go of things (as I have), and could find it helpful to
+have a consistent voice describing what has gone well (or been hard)
+along the way, rather than trying to piece together knowledge across
+disparate forum posts.
+
+Writing will also crystallize some of my own knowledge. And if I do
+enough of this, and actually learn Greek to any degree of proficiency,
+I could try to spin up any of my writings along the way into a
+longer-form guide. I think it would be cool for me to experiment with
+different learning techniques the sources and technology at my
+disposal to see what works well and what doesn't. For example,
+flashcards, flowcharts, plain old book learning, and so
+on. Aspirationally, contributing a valuable educational resource would
+be pretty cool.
+
+** Motivation
+
+My primary motivations for learning (any) pre-modern form of Greek
+were:
+
+- Be able to read the Greek New Testament
+- Stick with it
+- Be able to read Plato
+
+Given the first options in isolation, learning Koine over Attic seemed
+obvious, particularly since it's supposed to be simpler. I think there
+is also a larger online community and set of resources available for
+Koine rather than Attic. However, I want to be able to read the
+writings of Attic writers. 
+
+Lots of anonymous internet "experts" suggest that unless you know you
+will only ever read Koine, you should just learn Attic, as it is
+easier to learn Koine from Attic than Attic from Koine.
+
+** Tools
+- Anki (for flashcards)
+- Introduction to Attic Greek, 2nd Edition by Donald Mastronarde
+  - (Also, the answer key)
+- Greek-English New Testament, Nestle-Aland 28th Edition (NA28)
+  - I have the cloth-over-board edition.
+- A hotkey on my keyboard that switches my keys into Classical Greek
+  mode.
+- Lots of legal pads and pens of different colors
+- http://atticgreek.org/ which is the companion website for
+  Mastronarde's text
+- I have also been making use of [[https://www.billmounce.com/biblestudygreek/vocabulary/4][Bill Mounce's website]] for his book,
+  Basic Biblical Greek, consulting it for extra words (mostly just
+  nouns) to make it easier to read some of the New Testament texts.
+
+** Plan
+
+My basic plan so far has involved going through Mastronarde's text,
+chapter by chapter, reading everything, sometimes a couple times, and
+generally making each new word or form into one or more Anki
+flashcards. I'll also take new ideas or concepts I didn't know before
+and make flashcards from those as well.
+
+I'm currently on chapter 5 -- verbs.
+
+Prior to chapter 5, I've done all exercises for the chapter, but I
+probably will only do the odds or evens for future chapters since it's
+very time-consuming and repetitive to do *all* problems before moving
+on.
+
+Occasionally I will attempt reading and reading out loud longer chunks
+of the New Testament, and will also add some of Bill Mounce's
+recommended vocabulary into Anki from time to time to aid in that
+effort.
+
+** Thoughts so far
+- The rules governing accents are much easier to understand through
+  recognizing which accent pattern a given word fits into, than by
+  memorizing accent "rules" around when one accent appears versus
+  another.
+- I like Mastronarde's 2nd edition much better than the 1st edition,
+  but I can't directly compare as I no longer have the 1st edition. It
+  seems like there is a lot more background context in the 2nd
+  edition. I also think that I partly stopped learning Greek the last
+  time in 2017 because I couldn't figure out accents, and in this
+  edition, there is a nice disclaimer that tells the user they should
+  not worry too much about accents :) . I don't recall that disclaimer
+  being in the previous edition!
+- Highly inflected languages seem to give you more freedom in
+  expression, at the cost of having to follow the rules for various
+  inflections. Languages that are not highly inflected (like English)
+  seem to require many little words + particles to explicitly express
+  the grammar of a sentence, as well as a very static phrase
+  structure,  but  with the benefit  of not needing to (explicitly)
+  know various inflections.
+
+** Next time
+
+I'd like to back-fill some of my key takeaways from each chapter of
+Mastronarde so far, and what has worked (or not worked) for me so far.
+
+If I end up producing any substantial resources (flashcards, word
+lists, flowcharts), I'd also need to check in with the publisher to
+make sure any reproduction falls under fair use.
