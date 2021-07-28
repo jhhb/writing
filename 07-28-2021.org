@@ -1,0 +1,125 @@
+#+OPTIONS: toc:nil
+#+TITLE: Attic Greek Updates - #2 - Through Chapter 6 of Mastronarde
+* Attic Greek Updates - #2 - Through Chapter 6 of Mastronarde     :greek:TOC_2_org:
+  - [[Progress][Progress]]
+  - [[General learning process][General learning process]]
+  - [[Reflections][Reflections]]
+  - [[Corrections][Corrections]]
+  - [[Things to try for next time][Things to try for next time]]
+
+** Progress
+I've made slower progress over the last week or two.
+
+I've just finished Chapter 6 of Mastronarde; by the end of this
+chapter, you will have seen the forms for all of the Α-declension (1st
+declension) nouns, and been introduced to more prepositions.
+** General learning process
+
+Right now, the way I generally move through a chapter is as follows:
+1. Read / skim it once, and create flashcards for any pre-requisite
+   knowledge, as well as vocabulary where I have already learned the
+   forms
+2. Read it carefully, and make flashcards for vocabulary for *new*
+   types of forms
+3. For non-translation exercises (e.g. identification), do only the
+   odd-numbered exercises
+4. For translation exercises ("Translate the following into Greek",
+   "Translate the following sentences into English"), do *all* exercises
+5. Several days later, review the exercises
+6. Start a new chapter
+
+Depending on how much time I have, any number of these steps could be
+a part of the same "session" (chunk of time in one day), but I've been
+trying to shoot for smaller amounts of time per day (<= 60 minutes)
+just to make sure I don't find the commitment burdensome. In the long
+run, I will read and understand Greek, as long as I can make forward
+progress and maintain a commitment, as small as it may be; that is the
+truth of this venture. Making it easy to stay committed over a long
+period of time is more important than anything else.
+
+In learning the verbs in Chapter 5, I also made the decision for now
+to only learn a single form, and not all the principal parts.
+
+** Reflections
+
+*** The Present Active Indicative can be translated into an interrogative form
+
+This block:
+#+begin_quote
+λύετε τὴν δημοκρατίαν
+#+end_quote
+
+Can be rendered as "You (plural) overthrow / dissolve the democracy,"
+and "Are you (plural) overthrowing / dissolving the democracy?" The
+latter is harder for me to remember as a possible translation.
+
+*** Translation difficulties
+- It's relatively easy to render basic Greek into an acceptable -- not
+  necessarily eloquent -- English, but rendering English into Greek is
+  much more uncertain for a noobie. I suspect that these
+  challenges apply for rendering of *any* uninflected language into a
+  highly inflected language, not just English to Greek. It must be
+  even more challenging for translating a highly inflected language to
+  another highly inflected language.
+  - Many possible "equivalent" translations with different word
+    ordering and emphasis
+  - In general, whether to translate literally or "idiomatically"
+    - This is further made difficult by not knowing what is idiomatic
+      without reading more Greek!
+    - For example, when translating English into Greek, should I
+      follow, as much as possible, the general Greek structure of
+      subject, DO, IO, verb? Or should I translate as literally as
+      possible? I can probably answer this myself by cross-referencing
+      Mastronarde's answer key to see what general pattern he follows.
+      - Sometimes, to test myself, I will also write sentences
+        multiple ways in the exercises just to see which ones "fit"
+        the best.
+  - How to translate prepositional phrases (are these determined by
+    rules or context)? For example, is it correct to render the
+    following sentence as either of: "The general (among/with the soldiers)
+    abandons the tent and the horses", or "The general abandons the
+    tent and the horses among/with the soldiers?" If one reading is
+    more acceptable, how do we know? See below:
+
+#+begin_quote
+οἱ στρατηγοὶ μετὰ τῶν στρατιωτῶν τὰς σκηνὰς καὶ τὰς ἵππους λείπουσιν
+#+end_quote
+
+*** Memorizing rules
+- If you are going to memorize rules, memorize the most general rules,
+  but don't spend time memorizing exceptions.
+
+- Memorizing accent rules is less useful than recognizing the
+  patterns, and collecting some examples across the different patterns
+  that you can review.
+
+*** Prepositions
+- There are lots of prepositions with slightly different contextual meanings
+  - In order to make sense of them more easily, I'm considering making
+    a spreadsheet of an adjacency matrix of prepositions with the
+    associated cases they can take on.
+    - For example, διά would have an adjacency with both the genitive
+      and dative. This is helpful for giving a quick visual index, but
+      isn't too helpful for much more detail, so a more sophisticated
+      diagram or visual might be more desirable.
+
+*** Learning how to Learn
+- It's always a work in progress, but I'm still trying to figure out
+  the best way to learn Greek by myself. There's no how to guide, but
+  once I make it to the end of the text, I'd like to make a guide for
+  others in my shoes.
+
+
+** Corrections
+I think I found one issue so far in the answer key for:
+- Unit 5, Section 4, #5
+
+ἐθελομεν is missing an acute accent on the antepenult.
+** Things to try for next time
+- Try making some diagrams, visuals, spreadsheets, even software, to
+  help me learn more deeply, or more efficiently (e.g. make Anki
+  flashcards faster and automatically)
+- Review all of the resources that Mastronarde makes available. There
+  are a ton over at [[http://atticgreek.org/index.html][the official website for the text]]. 
+
+
